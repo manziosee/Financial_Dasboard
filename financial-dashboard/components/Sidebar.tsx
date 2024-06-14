@@ -24,7 +24,7 @@ const Sidebar = ({ user }: SiderbarProps) => {
           />
           <h1 
           className='sidebar-logo'>
-            Horizon</h1>
+            Atlas</h1>
         </Link>
 
         {sidebarLinks.map((item)=> {
